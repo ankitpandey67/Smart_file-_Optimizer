@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+3bfd42ccb78cc132a23e4fcf05584774 .qt/qml_imports/SmartFileOptimizer_build.cmake
+91ef694e2434e6c46ace4521442bf7ba CMakeFiles/SmartFileOptimizer_autogen
+91ef694e2434e6c46ace4521442bf7ba CMakeFiles/SmartFileOptimizer_qmlimportscan
+5a5506f40f513e3ba7606afbc68e831e SmartFileOptimizer_autogen/3YJK5W5UP7/qrc_resources.cpp
+364f9150ebf59214faf2473883ec669d SmartFileOptimizer_autogen/timestamp

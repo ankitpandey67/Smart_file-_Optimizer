@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../qml/Main.qml</file>
+        <file>../qml/Dashboard.qml</file>
+        <file>../qml/ScanPage.qml</file>
+        <file>../qml/OrganizePage.qml</file>
+        <file>../qml/DuplicatesPage.qml</file>
+        <file>../qml/SettingsPage.qml</file>
+        <file>../qml/components/Sidebar.qml</file>
+        <file>../qml/components/StatCard.qml</file>
+        <file>../qml/components/FileCard.qml</file>
+        <file>../qml/components/LogPanel.qml</file>
+        <file>../qml/components/ProgressBar.qml</file>
+        <file>../qml/components/DonutChart.qml</file>
+        <file>../qml/components/AnimatedButton.qml</file>
+        <file>../qml/components/HeaderBar.qml</file>
+        <file>../qml/components/SectionCard.qml</file>
+        <file>../qml/components/ToggleRow.qml</file>
+        <file>../qml/components/Divider.qml</file>
+        <file>../qml/components/NavItem.qml</file>
+        <file>../qml/components/qmldir</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,56 @@
+[
+{
+  "directory": "C:/Users/ankit/OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce/sem2/aip/SmartFileOptimizer/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CHARTS_LIB -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/SmartFileOptimizer.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\SmartFileOptimizer.dir\\SmartFileOptimizer_autogen\\mocs_compilation.cpp.obj -c \"C:\\Users\\ankit\\OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce\\sem2\\aip\\SmartFileOptimizer\\build\\SmartFileOptimizer_autogen\\mocs_compilation.cpp\"",
+  "file": "C:/Users/ankit/OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce/sem2/aip/SmartFileOptimizer/build/SmartFileOptimizer_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/SmartFileOptimizer.dir/SmartFileOptimizer_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/ankit/OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce/sem2/aip/SmartFileOptimizer/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CHARTS_LIB -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/SmartFileOptimizer.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\SmartFileOptimizer.dir\\src\\main.cpp.obj -c \"C:\\Users\\ankit\\OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce\\sem2\\aip\\SmartFileOptimizer\\src\\main.cpp\"",
+  "file": "C:/Users/ankit/OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce/sem2/aip/SmartFileOptimizer/src/main.cpp",
+  "output": "CMakeFiles/SmartFileOptimizer.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/ankit/OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce/sem2/aip/SmartFileOptimizer/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CHARTS_LIB -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/SmartFileOptimizer.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\SmartFileOptimizer.dir\\src\\filescanner.cpp.obj -c \"C:\\Users\\ankit\\OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce\\sem2\\aip\\SmartFileOptimizer\\src\\filescanner.cpp\"",
+  "file": "C:/Users/ankit/OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce/sem2/aip/SmartFileOptimizer/src/filescanner.cpp",
+  "output": "CMakeFiles/SmartFileOptimizer.dir/src/filescanner.cpp.obj"
+},
+{
+  "directory": "C:/Users/ankit/OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce/sem2/aip/SmartFileOptimizer/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CHARTS_LIB -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/SmartFileOptimizer.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\SmartFileOptimizer.dir\\src\\fileorganizer.cpp.obj -c \"C:\\Users\\ankit\\OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce\\sem2\\aip\\SmartFileOptimizer\\src\\fileorganizer.cpp\"",
+  "file": "C:/Users/ankit/OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce/sem2/aip/SmartFileOptimizer/src/fileorganizer.cpp",
+  "output": "CMakeFiles/SmartFileOptimizer.dir/src/fileorganizer.cpp.obj"
+},
+{
+  "directory": "C:/Users/ankit/OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce/sem2/aip/SmartFileOptimizer/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CHARTS_LIB -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/SmartFileOptimizer.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\SmartFileOptimizer.dir\\src\\duplicatedetector.cpp.obj -c \"C:\\Users\\ankit\\OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce\\sem2\\aip\\SmartFileOptimizer\\src\\duplicatedetector.cpp\"",
+  "file": "C:/Users/ankit/OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce/sem2/aip/SmartFileOptimizer/src/duplicatedetector.cpp",
+  "output": "CMakeFiles/SmartFileOptimizer.dir/src/duplicatedetector.cpp.obj"
+},
+{
+  "directory": "C:/Users/ankit/OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce/sem2/aip/SmartFileOptimizer/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CHARTS_LIB -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/SmartFileOptimizer.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\SmartFileOptimizer.dir\\src\\logger.cpp.obj -c \"C:\\Users\\ankit\\OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce\\sem2\\aip\\SmartFileOptimizer\\src\\logger.cpp\"",
+  "file": "C:/Users/ankit/OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce/sem2/aip/SmartFileOptimizer/src/logger.cpp",
+  "output": "CMakeFiles/SmartFileOptimizer.dir/src/logger.cpp.obj"
+},
+{
+  "directory": "C:/Users/ankit/OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce/sem2/aip/SmartFileOptimizer/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CHARTS_LIB -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/SmartFileOptimizer.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\SmartFileOptimizer.dir\\src\\settingsmanager.cpp.obj -c \"C:\\Users\\ankit\\OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce\\sem2\\aip\\SmartFileOptimizer\\src\\settingsmanager.cpp\"",
+  "file": "C:/Users/ankit/OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce/sem2/aip/SmartFileOptimizer/src/settingsmanager.cpp",
+  "output": "CMakeFiles/SmartFileOptimizer.dir/src/settingsmanager.cpp.obj"
+},
+{
+  "directory": "C:/Users/ankit/OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce/sem2/aip/SmartFileOptimizer/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CHARTS_LIB -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/SmartFileOptimizer.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\SmartFileOptimizer.dir\\src\\bridge.cpp.obj -c \"C:\\Users\\ankit\\OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce\\sem2\\aip\\SmartFileOptimizer\\src\\bridge.cpp\"",
+  "file": "C:/Users/ankit/OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce/sem2/aip/SmartFileOptimizer/src/bridge.cpp",
+  "output": "CMakeFiles/SmartFileOptimizer.dir/src/bridge.cpp.obj"
+},
+{
+  "directory": "C:/Users/ankit/OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce/sem2/aip/SmartFileOptimizer/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CHARTS_LIB -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/SmartFileOptimizer.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\SmartFileOptimizer.dir\\SmartFileOptimizer_autogen\\3YJK5W5UP7\\qrc_resources.cpp.obj -c \"C:\\Users\\ankit\\OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce\\sem2\\aip\\SmartFileOptimizer\\build\\SmartFileOptimizer_autogen\\3YJK5W5UP7\\qrc_resources.cpp\"",
+  "file": "C:/Users/ankit/OneDrive - Kalyan Citizens Education Society's B. K. Birla College of Arts, Science & Commerce/sem2/aip/SmartFileOptimizer/build/SmartFileOptimizer_autogen/3YJK5W5UP7/qrc_resources.cpp",
+  "output": "CMakeFiles/SmartFileOptimizer.dir/SmartFileOptimizer_autogen/3YJK5W5UP7/qrc_resources.cpp.obj"
+}
+]

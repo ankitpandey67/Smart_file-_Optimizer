@@ -1,0 +1,13 @@
+module components
+AnimatedButton 1.0 AnimatedButton.qml
+Divider 1.0 Divider.qml
+DonutChart 1.0 DonutChart.qml
+FileCard 1.0 FileCard.qml
+HeaderBar 1.0 HeaderBar.qml
+LogPanel 1.0 LogPanel.qml
+NavItem 1.0 NavItem.qml
+ProgressBar 1.0 ProgressBar.qml
+SectionCard 1.0 SectionCard.qml
+Sidebar 1.0 Sidebar.qml
+StatCard 1.0 StatCard.qml
+ToggleRow 1.0 ToggleRow.qml
